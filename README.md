@@ -11,5 +11,4 @@ assets/
   <artwork>-thumbnail.jpg  square 1:1 · 72 dpi  · 150px wide
 ```
 
-Each piece of artwork has all three versions. File names use only letters,
-numbers, `-` and `_` (no spaces or special characters).
+
